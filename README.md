@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=10A952FF&text=Azizbek%20Nayimov&textBg=false&fontColor=fff&reversal=false&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0EC36EFF&text=Azizbek%20Nayimov&textBg=false&fontColor=fff&reversal=false&animation=fadeIn"/>
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10A952FF&center=true&width=635&height=40&lines=Frontend+Developer;Creating+modern+and+responsive+web+apps;Always+learning%2C+always+coding" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EC36EFF&center=true&width=635&height=40&lines=Frontend+Developer;Creating+modern+and+responsive+web+apps;Always+learning%2C+always+coding" alt="Typing SVG" /></a>
 <p>
 
 
@@ -87,5 +87,5 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10A952FF&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EC36EFF&height=150&section=footer"/>
 </p>
